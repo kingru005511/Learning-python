@@ -1,4 +1,3 @@
-# /home/ubuntu/website_cloner/cloner.py
 import os
 import time
 import requests
